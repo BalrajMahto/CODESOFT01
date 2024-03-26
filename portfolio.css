@@ -131,3 +131,10 @@ footer{
     text-align: justify;
     width: 550px;
 }
+.cv{
+    margin-left: 550px;
+    margin-bottom: 20px;
+    margin-top: 80px;
+    font-weight: 500;
+
+}
